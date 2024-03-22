@@ -17,6 +17,6 @@ entries:
     - https://github.com/koordinator-sh/koordinator
     type: application
     urls:
-    - https://github.com/doujie1982/charts/koordinator-1.4.1.tgz
+    - https://doujie1982.github.io/charts/koordinator-1.4.1.tgz
     version: 1.4.1
 generated: "2024-03-22T01:51:44.84267632Z"
